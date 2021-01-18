@@ -1,11 +1,10 @@
 import React from 'react';
-import { useFetch } from '../hooks/useFetch';
+import { useArtistData } from '../context/ArtistData';
 
 const Artist = ({ match }) => {
-  const url = 'artists.json';
-  const { status, data, error } = useFetch(url);
-  const artists = data.artists;
-  const artist = artists?.find( artist => artist.id === match.params.artistId);
+  const artistContext = useArtistData();
+  const { status, data, error } = artistContext;
+  const artist = data?.artists?.find( artist => artist.id === match.params.artistId);
 
   return (
     <div>

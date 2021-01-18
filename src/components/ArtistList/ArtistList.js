@@ -1,11 +1,11 @@
 import React from 'react';
-import { useFetch } from '../../hooks/useFetch';
+import { useArtistData } from '../../context/ArtistData';
 import { Wrapper, List, Headline } from './ArtistList.elements';
 import ArtistListItem from '../ArtistListItem/ArtistListItem';
 
 const ArtistList = () => {
-  const url = 'artists.json';
-  const { status, data, error } = useFetch(url);
+  const artistContext = useArtistData();
+  const { status, data, error } = artistContext;
   const artists = data.artists;
 
   return (
