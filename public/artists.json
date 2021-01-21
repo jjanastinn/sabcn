@@ -5,8 +5,20 @@
       "name": "El Pez",
       "born_place": "Barcelona",
       "born_date": "1976",
-      "poster_img": "https://el-pez.com/wp-content/uploads/2020/12/Art18-scaled.jpg",
-      "poster_img_alt": "description",
+      "website": "https://el-pez.com/artwork/",
+      "social": [
+        {
+          "facebook": "https://www.facebook.com/elpezcollections"
+        },
+        {
+          "instagram": "https://www.instagram.com/pezbarcelona/"
+        },
+        {
+          "twitter": "https://twitter.com/pezbarcelona"
+        }
+      ],
+      "img": "https://www.back2back.eu/wp-content/uploads/2015/12/3-Street-Art-PezAction-Paris-2013-Menilmontant-e1490526107953.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
           "id": "family-portrait-4",
@@ -28,6 +40,48 @@
           "img": "http://el-pez.com/wp-content/uploads/2018/11/Canvas-7.jpg",
           "date": 2017,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "barcelona",
+          "name": "Barcelona",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art13-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "mision-paint-cities",
+          "name": "Mision Paint Cities",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art12-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "united-stars",
+          "name": "United Stars",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art7-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "lovely-smile",
+          "name": "Lovely Smile",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art8-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "fantastic-moments",
+          "name": "Fantastic moments",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art3-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "scandal-on-3th-street",
+          "name": "Scandal on 3th Street",
+          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art2-scaled.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]
     },
@@ -36,8 +90,20 @@
       "name": "El Xupet Negre",
       "born_place": "Barcelona",
       "born_date": "1987",
-      "poster_img": "https://cdn.shortpixel.ai/spai/w_1440+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/IMG_0850.JPG",
-      "poster_img_alt": "description",
+      "website": "https://elxupetnegre.com/",
+      "social": [
+        {
+          "facebook": "https://www.facebook.com/elxupetnegre.oficial/"
+        },
+        {
+          "instagram": "https://www.instagram.com/elxupetnegre/"
+        },
+        {
+          "twitter": "https://twitter.com/elxupet"
+        }
+      ],
+      "img": "https://cdn.shortpixel.ai/spai/w_436+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/uploads/2017/10/DSC_0639-e1507384949575.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
           "id": "live",
@@ -59,6 +125,251 @@
           "img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0013.JPG",
           "date": 2009,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "ouaki",
+          "name": "OUAKI",
+          "img": "https://cdn.shortpixel.ai/spai/w_1608+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0418.JPG",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "afro",
+          "name": "AFRO",
+          "img": "https://cdn.shortpixel.ai/spai/w_1100+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_2280.JPG",
+          "date": 2015,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "more-than-love",
+          "name": "MORE THAN LOVE",
+          "img": "https://cdn.shortpixel.ai/spai/w_796+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0485.JPG",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "graffiti-style",
+          "name": "GRAFFITI STYLE",
+          "img": "https://cdn.shortpixel.ai/spai/w_810+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0487.JPG",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "sb",
+          "name": "SB",
+          "img": "https://cdn.shortpixel.ai/spai/w_1078+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0512.JPG",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "xupaki",
+          "name": "XUPAKI",
+          "img": "https://cdn.shortpixel.ai/spai/w_1530+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_2228.jpg",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "diptic-paris",
+          "name": "DIPTIC.PARIS",
+          "img": "https://cdn.shortpixel.ai/spai/w_1741+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/diptic.paris_..JPG",
+          "date": 2014,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "aryz",
+      "name": "Aryz",
+      "born_place": "Palo Alto",
+      "born_date": "1988",
+      "website": "http://www.aryz.es/",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/mr_aryz/"
+        }
+      ],
+      "img": "https://nicolascouturieux.com/wp-content/uploads/2019/05/aryz_9-800x799-e1561128540958-266x342.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "el-auxilio",
+          "name": "El auxilio",
+          "img": "https://images.squarespace-cdn.com/content/v1/526197fbe4b0066e9c401d43/1608504903648-WFFGNNU8RWWHZRIQGVVZ/ke17ZwdGBToddI8pDm48kObQlsF2Ljl1Lv5oVOs8J2UUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAHaWuqjLl0D8AlWKdzGvMmZoZNX9QmMYAwfCERI1AlluSz-2Fyw65N8hxQGpEj76/auxilio-low.jpg?format=1500w",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "primm",
+          "name": "Primm",
+          "img": "https://images.squarespace-cdn.com/content/v1/526197fbe4b0066e9c401d43/1587056940439-G821OPCR7C2QA5D3ZKES/ke17ZwdGBToddI8pDm48kHQSsyJyVAwZYFnu5ObTlhcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcNAx2l7_t4OjsHwpbI3khDu184R-noA6euUzq8y9Qknhqi-Jw_VW2FKoGJA3WGxMC/2019-06-Primm%2CNevada+copia.jpg?format=1500w",
+          "date": 2019,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "eindhoven",
+          "name": "Eindhoven",
+          "img": "https://images.squarespace-cdn.com/content/v1/526197fbe4b0066e9c401d43/1587057303135-AKEEUCBPHITS8CRFG1CX/ke17ZwdGBToddI8pDm48kHQSsyJyVAwZYFnu5ObTlhcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcNAx2l7_t4OjsHwpbI3khDu184R-noA6euUzq8y9Qknhqi-Jw_VW2FKoGJA3WGxMC/2017-09-Eindhoven-Netherlands+copia.jpg?format=1500w",
+          "date": 2017,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "txemy",
+      "name": "Txemy",
+      "born_place": "Chile / Islas Canarias",
+      "born_date": "1981",
+      "website": "http://www.txemy.com/",
+      "social": [
+        {
+          "instagram": "http://instagram.com/txemy"
+        }
+      ],
+      "img": "http://www.txemy.com/wp-content/uploads/DSCF7935.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "carmen",
+          "name": "Carmen",
+          "img": "http://www.txemy.com/wp-content/uploads/juan_instagram_2.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "equilibrio",
+          "name": "Equilibrio",
+          "img": "http://www.txemy.com/wp-content/uploads/nau_2.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "la-primera-vez",
+          "name": "La Primera Vez",
+          "img": "http://www.txemy.com/wp-content/uploads/lacomunitat_txemy.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "untitled",
+          "name": "Untitled",
+          "img": "http://www.txemy.com/wp-content/uploads/txem_AUP.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "timisoara",
+          "name": "Timisoara",
+          "img": "http://www.txemy.com/wp-content/uploads/IMG_7818.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "gorila",
+          "name": "Gorila",
+          "img": "http://www.txemy.com/wp-content/uploads/txemy-moncada-2.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "jan-vallverdu",
+      "name": "Jan Vallverdu",
+      "born_place": "Barcelona",
+      "born_date": "1995",
+      "website": "https://www.bmurals.com/people/jan-vallverd",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/blahcaduco/"
+        }
+      ],
+      "img": "https://matildetamayo.org/wp-content/uploads/2018/11/Jan-Vallverdu-3.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "canta-canta",
+          "name": "Canta canta",
+          "img": "https://matildetamayo.org/wp-content/uploads/2018/11/Jan-Vallverdu-14.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "decorative-painting",
+          "name": "decorative painting",
+          "img": "https://matildetamayo.org/wp-content/uploads/2018/11/Jan-Vallverdu-15.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "en-tu-cara",
+          "name": "En tu cara",
+          "img": "https://matildetamayo.org/wp-content/uploads/2018/11/Jan-Vallverdu-23.jpg",
+          "date": 2018,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "perrine-honore",
+      "name": "Perrine Honore",
+      "born_place": "Grasse",
+      "born_date": "1993",
+      "website": "https://perrinehonore.com/",
+      "social": [
+        {
+          "facebook": "https://www.facebook.com/helloperrinehonore/"
+        },
+        {
+          "instagram": "https://www.instagram.com/honoreperrine/"
+        },
+        {
+          "twitter": "https://twitter.com/honore_perrine"
+        }
+      ],
+      "img": "https://www.rebobinart.com/wp-content/uploads/2020/04/Perrine-Honore%CC%81_artista_11-768x512.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "larche",
+          "name": "L’Arche",
+          "img": "https://i2.wp.com/perrinehonore.com/wp-content/uploads/2020/07/banner2.jpg?w=1091&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "poblenou",
+          "name": "Poblenou",
+          "img": "https://i0.wp.com/perrinehonore.com/wp-content/uploads/2021/01/WEB-005.jpg?w=1000&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "centre-civic",
+          "name": "Centre Cívic",
+          "img": "https://i2.wp.com/perrinehonore.com/wp-content/uploads/2020/11/Captura-de-pantalla-2020-10-27-a-las-17.51.38.png?w=1000&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "hallucinature",
+          "name": "Hallucinature",
+          "img": "https://i2.wp.com/perrinehonore.com/wp-content/uploads/2020/02/3bis.jpg?resize=1024%2C766&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "intimidad-simbiotica",
+          "name": "Intimidad Simbiotica",
+          "img": "https://i2.wp.com/perrinehonore.com/wp-content/uploads/2018/09/Agua.jpg?w=1721&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "totem",
+          "name": "Totem",
+          "img": "https://i2.wp.com/perrinehonore.com/wp-content/uploads/2020/02/05-1.jpg?w=1024&ssl=1",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]
     },
@@ -67,8 +378,14 @@
       "name": "Chanoir",
       "born_place": "Bogotá",
       "born_date": "1976",
-      "poster_img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/7204842488_1602612145.jpg",
-      "poster_img_alt": "description",
+      "website": "http://chanoir.free.fr/",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/chanoir1980/"
+        }
+      ],
+      "img": "https://www.rebobinart.com/wp-content/uploads/2020/04/xupet-y-chanoir-graffiti-barcelona-3.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
           "id": "chas-et-culture-urbaine",
@@ -98,8 +415,17 @@
       "name": "El Kenor",
       "born_place": "Barcelona",
       "born_date": "1976",
-      "poster_img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1588611320367-L8UQ3ETZWX2QFAQAJEHD/ke17ZwdGBToddI8pDm48kCDnvzZDSTqrZYB0qToMReZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0psyQQR5KrxgIm8QcotvsYtvUHnJsni5ivcu2RP0UO8zWN1uCXtq4fHLhtl5lYmmpQ/kenor+GENESIS+22+195+x+130+Barcelona+2020?format=1500w",
-      "poster_img_alt": "description",
+      "website": "https://elkenor.com/",
+      "social": [
+        {
+          "facebook": "https://www.facebook.com/kenoruno/"
+        },
+        {
+          "instagram": "https://www.instagram.com/kenor1/"
+        }
+      ],
+      "img": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2020/05/17/5fa91676f18fa.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
           "id": "binary-system",
@@ -121,253 +447,216 @@
           "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574694293919-X88ULDH6ACA5S5LOQRCD/ke17ZwdGBToddI8pDm48kH55_y9jFohjvbE88ud6eIB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lCvyAd1-5UQFnp8aARaJsXF2Wq0AAFaL3LD2LggyRSP0gs4nsRBM0vXSKWsKsDhTQ/Cuerpos+Sonoros+kenor+barcelona+2019?format=1500w",
           "date": 2019,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "el-pez1",
-      "name": "El Pez",
-      "born_place": "Barcelona",
-      "born_date": "1976",
-      "poster_img": "https://el-pez.com/wp-content/uploads/2020/12/Art5.jpg",
-      "poster_img_alt": "description",
-      "artwork": [
+        },
         {
-          "id": "family-portrait-4",
-          "name": "Family Portrait 4",
-          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art5.jpg",
-          "date": 2020,
+          "id": "parralel-minds",
+          "name": "Parralel Minds",
+          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574855219996-4R52UE674126OPXUX9K8/ke17ZwdGBToddI8pDm48kNbeYdrdPTxKS_DoQA--rnp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKErgejD1HGpWVNfNBijHGqt8PrF6lZ-q_LW5Fbfcn3H1Q/kenor+tudela+avant+garde+tudela2018?format=1500w",
+          "date": 2018,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "love-happy-style",
-          "name": "Love Happy Style",
-          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art18-scaled.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "untitled",
-          "name": "Untitled",
-          "img": "http://el-pez.com/wp-content/uploads/2018/11/Canvas-7.jpg",
-          "date": 2017,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "el-xupet-negre1",
-      "name": "El Xupet Negre",
-      "born_place": "Barcelona",
-      "born_date": "1987",
-      "poster_img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0011.JPG",
-      "poster_img_alt": "description",
-      "artwork": [
-        {
-          "id": "live",
-          "name": "Live",
-          "img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0011.JPG",
-          "date": 2009,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "bmtf",
-          "name": "BMTF",
-          "img": "https://cdn.shortpixel.ai/spai/w_1440+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/IMG_0850.JPG",
-          "date": 2008,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "walk",
-          "name": "Walk",
-          "img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0013.JPG",
-          "date": 2009,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "chanoir1",
-      "name": "Chanoir",
-      "born_place": "Bogotá",
-      "born_date": "1976",
-      "poster_img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/Galerie_Art_JIngle_CHANOIR_Chas_Et_Culture_Urbaine_150x150_cm_2020.jpg",
-      "poster_img_alt": "description",
-      "artwork": [
-        {
-          "id": "chas-et-culture-urbaine",
-          "name": "Chas Et Culture Urbaine",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/Galerie_Art_JIngle_CHANOIR_Chas_Et_Culture_Urbaine_150x150_cm_2020.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "cha-totemique",
-          "name": "Cha totemique",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/7204842488_1602612145.jpg",
+          "id": "metropolis",
+          "name": "Metropolis",
+          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574864335326-CLPRQJK3BKN3UZRDYU99/ke17ZwdGBToddI8pDm48kIAxOFyGQR3Lx89o4DH4kswUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccVw9oYjzdNAKyl2nw8EiYA_-bZsoRUccscCSfUNpRoZj40r_Ofp3h0Jx3uVLEzNf/kenor+Miami+2016+Metropolis+wall+Florida+2016?format=1500w",
           "date": 2016,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "cha-squelette-qui-prie",
-          "name": "Cha squelette qui prie",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/2875235069_1602611126.jpg",
-          "date": 2011,
+          "id": "chain-reaction",
+          "name": "Chain Reaction",
+          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574933565201-HKZHCQQCE6KQZ4VAWGTT/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/kenor+Open+Walls+2014+Barcelona+wall?format=1500w",
+          "date": 2014,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]
     },
     {
-      "id": "elkenor1",
-      "name": "El Kenor",
-      "born_place": "Barcelona",
-      "born_date": "1976",
-      "poster_img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1598438869134-INJP0T742WI9LW9EX443/ke17ZwdGBToddI8pDm48kH4Wp4UlygM6bHx-DGxjgRB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NIie0yoWziYJ1PLZgp6lwGGjdl1feCg9l4T0lEMS3oLLQ/Binary+system++100+x+100+barcelona+Kenor?format=1500w",
-      "poster_img_alt": "description",
-      "artwork": [
+      "id": "mina-hamada",
+      "name": "Mina Hamada",
+      "born_place": "Louisiana",
+      "born_date": "1990",
+      "website": "https://minahamada.com/",
+      "social": [
         {
-          "id": "binary-system",
-          "name": "Binary system",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1598438869134-INJP0T742WI9LW9EX443/ke17ZwdGBToddI8pDm48kH4Wp4UlygM6bHx-DGxjgRB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NIie0yoWziYJ1PLZgp6lwGGjdl1feCg9l4T0lEMS3oLLQ/Binary+system++100+x+100+barcelona+Kenor?format=1500w",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "genesis",
-          "name": "Genesis",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1588611320367-L8UQ3ETZWX2QFAQAJEHD/ke17ZwdGBToddI8pDm48kCDnvzZDSTqrZYB0qToMReZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0psyQQR5KrxgIm8QcotvsYtvUHnJsni5ivcu2RP0UO8zWN1uCXtq4fHLhtl5lYmmpQ/kenor+GENESIS+22+195+x+130+Barcelona+2020?format=1500w",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "cuerpos-sonoros",
-          "name": "Cuerpos sonoros",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574694293919-X88ULDH6ACA5S5LOQRCD/ke17ZwdGBToddI8pDm48kH55_y9jFohjvbE88ud6eIB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lCvyAd1-5UQFnp8aARaJsXF2Wq0AAFaL3LD2LggyRSP0gs4nsRBM0vXSKWsKsDhTQ/Cuerpos+Sonoros+kenor+barcelona+2019?format=1500w",
-          "date": 2019,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          "instagram": "https://www.instagram.com/mina_hamada/"
         }
-      ]
-    },
-    {
-      "id": "el-pez2",
-      "name": "El Pez",
-      "born_place": "Barcelona",
-      "born_date": "1976",
-      "poster_img": "http://el-pez.com/wp-content/uploads/2018/11/Canvas-7.jpg",
-      "poster_img_alt": "description",
+      ],
+      "img": "https://www.artxtu.com/wp-content/uploads/2016/08/artxtu-retratzosenyminahamada2.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
-          "id": "family-portrait-4",
-          "name": "Family Portrait 4",
-          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art5.jpg",
-          "date": 2020,
+          "id": "sanpo",
+          "name": "Sanpo",
+          "img": "https://payload.cargocollective.com/1/15/496368/8367590/2014Sanpo--Acrylic-on-canvas-8165_650.png",
+          "date": 2014,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "love-happy-style",
-          "name": "Love Happy Style",
-          "img": "https://el-pez.com/wp-content/uploads/2020/12/Art18-scaled.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "untitled",
-          "name": "Untitled",
-          "img": "http://el-pez.com/wp-content/uploads/2018/11/Canvas-7.jpg",
+          "id": "cenzontle",
+          "name": "Cenzontle",
+          "img": "https://payload.cargocollective.com/1/15/496368/8367590/Wataridori-Cenzontle-91x73-Acrylic-on-canvas-2017_670.jpg",
           "date": 2017,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "el-xupet-negre2",
-      "name": "El Xupet Negre",
-      "born_place": "Barcelona",
-      "born_date": "1987",
-      "poster_img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0013.JPG",
-      "poster_img_alt": "description",
-      "artwork": [
-        {
-          "id": "live",
-          "name": "Live",
-          "img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0011.JPG",
-          "date": 2009,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "bmtf",
-          "name": "BMTF",
-          "img": "https://cdn.shortpixel.ai/spai/w_1440+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/IMG_0850.JPG",
-          "date": 2008,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "walk",
-          "name": "Walk",
-          "img": "https://cdn.shortpixel.ai/spai/w_1080+q_lossy+ret_img+to_webp/https://elxupetnegre.com/wp-content/gallery/art-works/DSC_0013.JPG",
-          "date": 2009,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "chanoir2",
-      "name": "Chanoir",
-      "born_place": "Bogotá",
-      "born_date": "1976",
-      "poster_img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/2875235069_1602611126.jpg",
-      "poster_img_alt": "description",
-      "artwork": [
-        {
-          "id": "chas-et-culture-urbaine",
-          "name": "Chas Et Culture Urbaine",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/Galerie_Art_JIngle_CHANOIR_Chas_Et_Culture_Urbaine_150x150_cm_2020.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "cha-totemique",
-          "name": "Cha totemique",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/7204842488_1602612145.jpg",
+          "id": "dos-mundos",
+          "name": "Dos mundos",
+          "img": "https://payload.cargocollective.com/1/15/496368/8367590/Mina-Hamada-Dos-mundos6073-Acrylic-on-canvas-low_500.jpg",
           "date": 2016,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "cha-squelette-qui-prie",
-          "name": "Cha squelette qui prie",
-          "img": "https://d16kd6gzalkogb.cloudfront.net/marketplace_artwork_images/2875235069_1602611126.jpg",
-          "date": 2011,
+          "id": "spin",
+          "name": "Spin",
+          "img": "https://transit7.cargocollective.com/1/15/496368/8367590/Mina-Hamada-SpinAcrilic-on-canvas7070-2014-1.jpg",
+          "date": 2016,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "luna-de-nube",
+          "name": "Luna De nube",
+          "img": "https://payload.cargocollective.com/1/15/496368/8367590/mina-hamada-amatsuki-big_550.png",
+          "date": 2015,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "mizunoie",
+          "name": "Mizunoie",
+          "img": "https://payload.cargocollective.com/1/15/496368/8367590/2013-Mizunoie-8165-acrilico-_500.png",
+          "date": 2013,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]
     },
     {
-      "id": "elkenor2",
-      "name": "El Kenor",
-      "born_place": "Barcelona",
-      "born_date": "1976",
-      "poster_img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574694293919-X88ULDH6ACA5S5LOQRCD/ke17ZwdGBToddI8pDm48kH55_y9jFohjvbE88ud6eIB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lCvyAd1-5UQFnp8aARaJsXF2Wq0AAFaL3LD2LggyRSP0gs4nsRBM0vXSKWsKsDhTQ/Cuerpos+Sonoros+kenor+barcelona+2019?format=1500w",
-      "poster_img_alt": "description",
+      "id": "socatoba",
+      "name": "SOCATOBA",
+      "born_place": "Badajoz",
+      "born_date": "1979",
+      "website": "http://www.socatoba.com/",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/socatoba/"
+        }
+      ],
+      "img": "http://www.socatoba.com/files/gimgs/80_2020120413501000-01.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "artwork": [
         {
-          "id": "binary-system",
-          "name": "Binary system",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1598438869134-INJP0T742WI9LW9EX443/ke17ZwdGBToddI8pDm48kH4Wp4UlygM6bHx-DGxjgRB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NIie0yoWziYJ1PLZgp6lwGGjdl1feCg9l4T0lEMS3oLLQ/Binary+system++100+x+100+barcelona+Kenor?format=1500w",
+          "id": "im-notplastic",
+          "name": "I´M NOT PLASTIC",
+          "img": "http://www.socatoba.com/files/gimgs/80_2020120516361600-01.jpg",
           "date": 2020,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "genesis",
-          "name": "Genesis",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1588611320367-L8UQ3ETZWX2QFAQAJEHD/ke17ZwdGBToddI8pDm48kCDnvzZDSTqrZYB0qToMReZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0psyQQR5KrxgIm8QcotvsYtvUHnJsni5ivcu2RP0UO8zWN1uCXtq4fHLhtl5lYmmpQ/kenor+GENESIS+22+195+x+130+Barcelona+2020?format=1500w",
+          "id": "le-teste-de-buch",
+          "name": "LE TESTE DE BUCH",
+          "img": "http://www.socatoba.com/files/gimgs/75_img8345.jpg",
+          "date": 2018,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "barcelona-junio",
+          "name": "Barcelona Junio",
+          "img": "http://www.socatoba.com/files/gimgs/72_8.jpg",
+          "date": 2018,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "terrassa-junio",
+          "name": "Terrassa Junio",
+          "img": "http://www.socatoba.com/files/gimgs/71_12.jpg",
+          "date": 2018,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "oaxaca-julio",
+          "name": "Oaxaca Julio",
+          "img": "http://www.socatoba.com/files/gimgs/67_20139625101544009979672421988656507056893608n.jpg",
+          "date": 2017,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "siete-fuegos",
+          "name": "Siete Fuegos",
+          "img": "http://www.socatoba.com/files/gimgs/64_img6361.jpg",
+          "date": 2018,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "zane-prater",
+      "name": "Zane Prater",
+      "born_place": "Denver",
+      "born_date": "1993",
+      "website": "https://www.zaneprater.com/",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/zane.prater/"
+        }
+      ],
+      "img": "https://arrestedmotion.com/wp-content/uploads/2020/02/homeless07-400x280.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "passage",
+          "name": "Passage",
+          "img": "https://static.wixstatic.com/media/758cd6_790d66df0dcb4a9b9260f14db7aede6e~mv2.jpg/v1/fill/w_981,h_654,al_c,q_85,usm_0.66_1.00_0.01/758cd6_790d66df0dcb4a9b9260f14db7aede6e~mv2.webp",
           "date": 2020,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
-          "id": "cuerpos-sonoros",
-          "name": "Cuerpos sonoros",
-          "img": "https://images.squarespace-cdn.com/content/v1/5dd508e16ba67763d6e9bdba/1574694293919-X88ULDH6ACA5S5LOQRCD/ke17ZwdGBToddI8pDm48kH55_y9jFohjvbE88ud6eIB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lCvyAd1-5UQFnp8aARaJsXF2Wq0AAFaL3LD2LggyRSP0gs4nsRBM0vXSKWsKsDhTQ/Cuerpos+Sonoros+kenor+barcelona+2019?format=1500w",
-          "date": 2019,
+          "id": "detritus",
+          "name": "Detritus",
+          "img": "https://static.wixstatic.com/media/758cd6_49494ac0795941c9926faf05b7385158~mv2.jpg/v1/fill/w_530,h_654,al_c,q_80,usm_0.66_1.00_0.01/758cd6_49494ac0795941c9926faf05b7385158~mv2.webp",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "poblenou",
+          "name": "Poblenou",
+          "img": "https://static.wixstatic.com/media/758cd6_6bc06019c1ba44d58cdce2ed226f3dc7~mv2.jpg/v1/fill/w_654,h_654,al_c,q_85,usm_0.66_1.00_0.01/758cd6_6bc06019c1ba44d58cdce2ed226f3dc7~mv2.webp",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": "octavi-serra",
+      "name": "Octavi Serra",
+      "born_place": "Girona",
+      "born_date": "1990",
+      "website": "https://ooss.eu/",
+      "social": [
+        {
+          "instagram": "https://www.instagram.com/ooss_ooss_ooss/"
+        }
+      ],
+      "img": "https://www.contornourbano.com/wp-content/uploads/2019/11/Octavi-Serra-by-Clara-Ant%C3%B3n-%C2%A9-6-845x684.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "artwork": [
+        {
+          "id": "looks-like",
+          "name": "Looks Like",
+          "img": "https://freight.cargo.site/w/350/i/49f03af6ef7d469436e00657af00540ddfa9fd9627d24ef21c035cb41b129545/lookslike1.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "back",
+          "name": "Back",
+          "img": "https://freight.cargo.site/t/original/i/5bfa4a37dbbe08bfcf0136f1d200575f6a2b6bd55abfde65ec25981edabe0ec7/darrere.jpg",
+          "date": 2020,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "id": "artbnb",
+          "name": "ARTBNB",
+          "img": "https://freight.cargo.site/w/350/i/874d93035d49678cb273bf7b21f96cbc39c3d6d923cd91021c83992a138b49e4/IMG_9161.JPG",
+          "date": 2020,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]
