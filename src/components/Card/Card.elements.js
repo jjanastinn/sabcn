@@ -5,12 +5,14 @@ export const Wrapper = styled.div`
   display: flex;
   flex-flow: column;
   padding: var(--spacing-large);
-  ${ Scroll }
+  ${Scroll}
 `
 
-export const Background = styled.div`
-  background-color: var(--black);
+export const TextBlock = styled.div`
   flex-grow: 1;
+  & > * { 
+    margin: var(--spacing-large) 0;
+  }
 `
 
 export const Meta = styled.p`

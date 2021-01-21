@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <DoubleColumn>
       <div>
-        <BGImg image={img}><h1>streetart bcn</h1></BGImg>
+        <BGImg image={img}></BGImg>
       </div>
       <div>
         <BGImg image={img}></BGImg>

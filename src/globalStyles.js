@@ -12,11 +12,11 @@ const GlobalStyle = createGlobalStyle`
 
   // VARIABLES
   :root {
-    --black: #080808;
-    --white: #fff;
-    --spacing-small: 10px;
-    --spacing-large: 20px;
-    --text-padding: 5px 10px;
+    --white: #131313;
+    --black: #fff;
+    --spacing-small: 5px;
+    --spacing-large: 15px;
+    --text-padding: var(--spacing-small) 0;
   }
 
   // GLOBAL
@@ -29,17 +29,15 @@ const GlobalStyle = createGlobalStyle`
   body {
     overflow-y: hidden;
     font-family: 'Roboto Condensed', sans-serif;
-    color: var(--white);
   }
 
   a {
     text-decoration: none;
-    color: var(--black);
+    color: var(--white);
   }
 
   img {
     width: 100%;
-    border: var(--spacing-small) solid var(--black);
   }
 
   ul {
@@ -48,7 +46,6 @@ const GlobalStyle = createGlobalStyle`
 
   h1 {
     margin: var(--spacing-small);
-    color: var(--black);
     word-break: break-all;
     font-size: 3vw;
     ${BlackoutFont}
@@ -57,18 +54,19 @@ const GlobalStyle = createGlobalStyle`
   h2 {
     padding: var(--text-padding);
     margin-bottom: var(--spacing-large);
-    background-color: var(--black);
+    color: var(--white);
     font-size: 1.5rem;
     ${BlackoutFont}
   }
 
   h3 {
+    padding: var(--text-padding);
     font-size: 1rem;
     ${BlackoutFont}
   }
 
   p {
-    padding: var(--text-padding);
+    color: var(--white);
     line-height: 1.3;
   }
 `;

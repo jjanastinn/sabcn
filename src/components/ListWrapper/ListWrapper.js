@@ -1,6 +1,6 @@
 import React from 'react';
 import { List } from './ListWrapper.elements';
-import ListItem from '../ListItem/ListItem';
+import { ListItem } from '../index';
 
 const ListWrapper = ({array}) => {
   return (

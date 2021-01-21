@@ -2,7 +2,7 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import { DoubleColumn, SingleColumn } from './Artist.elements';
 import { useArtistData } from '../../context/ArtistData';
-import { ListWrapper, ArtistCard } from '../../components';
+import { ListWrapper, Card } from '../../components';
 import { Artwork } from '../index';
 
 const Artist = ({ match }) => {
@@ -23,7 +23,7 @@ const Artist = ({ match }) => {
             <ListWrapper array={artwork}></ListWrapper>
           </SingleColumn>
           {match.isExact ? (
-            <ArtistCard artist={artist}></ArtistCard>
+            <Card data={artist} headline='BIO'></Card>
           ) : (
             <Route path={`${match.path}/:artworkId`}><Artwork artwork={artwork}></Artwork></Route>
           )}

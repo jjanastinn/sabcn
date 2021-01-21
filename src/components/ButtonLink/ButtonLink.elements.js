@@ -1,9 +1,10 @@
 import styled from 'styled-components';
+import { BlackoutFont } from '../../styles/Mixins';
 
 export const LinkItem = styled.a`
-  font-family: 'blackoutmidnight';
   display: inline-block;
   background-color: var(--white);
-  padding: var(--text-padding);
-  margin: var(--spacing-small);
+  color: var(--black);
+  padding: 8px;
+  ${BlackoutFont}
 `

@@ -11,7 +11,7 @@ export const Scroll = css`
 `
 
 export const ColumnBorder = css`
-  border-right: var(--spacing-small) solid var(--black);
+  border-right: 10px solid var(--white);
 `
 
 export const DoubleColumnSubgrid = css`
@@ -26,6 +26,6 @@ export const DoubleColumnSubgrid = css`
 `
 
 export const BlackoutFont = css`
-  font-family: 'blackoutmidnight';
+  font-family: 'blackoutmidnight', sans-serif;
   letter-spacing: .5px;
 `

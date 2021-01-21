@@ -1,7 +1,7 @@
 import React from 'react';
 import { Wrapper } from './ArtistList.elements';
 import { useArtistData } from '../../context/ArtistData';
-import ListWrapper from '../ListWrapper/ListWrapper';
+import { ListWrapper } from '../index';
 
 const ArtistList = () => {
   const artistContext = useArtistData();
