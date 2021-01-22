@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, Link, Headline } from './Navbar.elements';
+import { Nav, Headline } from './Navbar.elements';
 import { SocialLinks } from '../index';
 
 const social = [
@@ -17,9 +17,9 @@ const social = [
 const Navbar = () => {
   return (
     <Nav>
-      <Link href='/'>
+      <a href='/'>
         <Headline>streetart bcn</Headline>
-      </Link>
+      </a>
       <SocialLinks data={social} vertical='true'></SocialLinks>
     </Nav>
   );

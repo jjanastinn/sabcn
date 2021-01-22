@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 import blackoutmidnight from './assets/Blackout-Midnight.ttf';
 import { BlackoutFont } from './styles/Mixins';
+import { device } from './styles/Breakpoints';
 
 const GlobalStyle = createGlobalStyle`
 
@@ -29,6 +30,10 @@ const GlobalStyle = createGlobalStyle`
   body {
     overflow-y: hidden;
     font-family: 'Roboto Condensed', sans-serif;
+
+    @media ${device.mobile} {
+      overflow-y: initial;
+    }
   }
 
   a {
@@ -47,7 +52,7 @@ const GlobalStyle = createGlobalStyle`
   h1 {
     margin: var(--spacing-small);
     word-break: break-all;
-    font-size: 3vw;
+    font-size: 2rem;
     ${BlackoutFont}
   }
 

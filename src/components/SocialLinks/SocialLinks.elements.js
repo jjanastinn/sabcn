@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { device } from '../../styles/Breakpoints';
 
 export const SocialWrapper = styled.ul`
   display: flex;
@@ -6,6 +7,19 @@ export const SocialWrapper = styled.ul`
   margin: var(--spacing-small) auto;
   li {
     margin: ${props => props.orientation ? '0 0 10px' : '0 10px 0 0'};
+  }
+
+  @media ${device.mobile} {
+    flex-flow: initial;
+    margin: 0 var(--spacing-large);
+    li {
+      margin: 0 10px 0 0;
+      &:last-child { margin-right: 0; }
+    }
+  }
+
+  @media ${device.mobileSmall} {
+    display: none;
   }
 `
 

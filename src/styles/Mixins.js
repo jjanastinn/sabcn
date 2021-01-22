@@ -1,4 +1,5 @@
 import { css } from 'styled-components';
+import { device } from './Breakpoints';
 
 export const Scroll = css`
   height: 100vh;
@@ -8,10 +9,21 @@ export const Scroll = css`
   &::-webkit-scrollbar {
     display: none;
   }
+
+  @media ${device.mobile} {
+    height: fit-content;
+    overflow-y: hidden;
+    overflow-x: scroll;
+  }
 `
 
 export const ColumnBorder = css`
   border-right: 10px solid var(--white);
+
+  @media ${device.mobile} {
+    border-right: none;
+    border-bottom: 7px solid var(--white);
+  }
 `
 
 export const DoubleColumnSubgrid = css`
@@ -22,6 +34,13 @@ export const DoubleColumnSubgrid = css`
       ${ColumnBorder}
     }
     padding: var(--spacing-large);
+  }
+
+  @media ${device.mobile} {
+    grid-template-columns: 1fr;
+    > *:first-child {
+      padding-right: 0;
+    }
   }
 `
 
