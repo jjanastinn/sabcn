@@ -31,7 +31,7 @@ export const DoubleColumnSubgrid = css`
   grid-template-columns: 1fr 1fr;
   > * {
     &:first-child {
-      ${ColumnBorder}
+      margin-right: 10px;
     }
     padding: var(--spacing-large);
   }
@@ -40,6 +40,8 @@ export const DoubleColumnSubgrid = css`
     grid-template-columns: 1fr;
     > *:first-child {
       padding-right: 0;
+      margin-right: 0;
+      ${ColumnBorder}
     }
   }
 `

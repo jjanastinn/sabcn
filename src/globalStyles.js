@@ -33,6 +33,7 @@ const GlobalStyle = createGlobalStyle`
 
     @media ${device.mobile} {
       overflow-y: initial;
+      overflow-x: hidden;
     }
   }
 
