@@ -8,7 +8,7 @@ export const List = styled.ul`
   grid-gap: var(--spacing-large);
 
   @media ${device.mobile} {
-    grid-template-columns: ${props => `repeat(${props.children.length}, minmax(120px, 1fr))`};
+    grid-template-columns: ${props => `repeat(${props.children.length}, minmax(150px, 1fr))`};
     ${Scroll}
   }
 `

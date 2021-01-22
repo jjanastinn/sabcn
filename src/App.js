@@ -4,6 +4,7 @@ import GlobalStyle from './globalStyles';
 import { ArtistDataContext } from './context';
 import { Home, Artist } from './pages';
 import { Navbar, ArtistList } from './components';
+import { AnimatePresence } from "framer-motion"
 
 function App() {
   return (
@@ -13,10 +14,12 @@ function App() {
         <Grid>
           <Navbar />
           <ArtistList />
-          <Switch>
-            <Route path='/' component={Home} exact></Route>
-            <Route path='/:artistId' component={Artist}></Route>
-          </Switch>
+          <AnimatePresence exitBeforeEnter>
+            <Switch>
+              <Route path='/' component={Home} exact></Route>
+              <Route path='/:artistId' component={Artist}></Route>
+            </Switch>
+          </AnimatePresence>
         </Grid>
       </Router>
     </ArtistDataContext>
