@@ -215,64 +215,6 @@
       ]
     },
     {
-      "id": "txemy",
-      "name": "Txemy",
-      "born_place": "Chile / Islas Canarias",
-      "born_date": "1981",
-      "website": "http://www.txemy.com/",
-      "social": [
-        {
-          "instagram": "http://instagram.com/txemy"
-        }
-      ],
-      "img": "http://www.txemy.com/wp-content/uploads/DSCF7935.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "artwork": [
-        {
-          "id": "carmen",
-          "name": "Carmen",
-          "img": "http://www.txemy.com/wp-content/uploads/juan_instagram_2.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "equilibrio",
-          "name": "Equilibrio",
-          "img": "http://www.txemy.com/wp-content/uploads/nau_2.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "la-primera-vez",
-          "name": "La Primera Vez",
-          "img": "http://www.txemy.com/wp-content/uploads/lacomunitat_txemy.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "untitled",
-          "name": "Untitled",
-          "img": "http://www.txemy.com/wp-content/uploads/txem_AUP.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "timisoara",
-          "name": "Timisoara",
-          "img": "http://www.txemy.com/wp-content/uploads/IMG_7818.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "gorila",
-          "name": "Gorila",
-          "img": "http://www.txemy.com/wp-content/uploads/txemy-moncada-2.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
       "id": "jan-vallverdu",
       "name": "Jan Vallverdu",
       "born_place": "Barcelona",
@@ -525,64 +467,6 @@
           "name": "Mizunoie",
           "img": "https://payload.cargocollective.com/1/15/496368/8367590/2013-Mizunoie-8165-acrilico-_500.png",
           "date": 2013,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-      ]
-    },
-    {
-      "id": "socatoba",
-      "name": "SOCATOBA",
-      "born_place": "Badajoz",
-      "born_date": "1979",
-      "website": "http://www.socatoba.com/",
-      "social": [
-        {
-          "instagram": "https://www.instagram.com/socatoba/"
-        }
-      ],
-      "img": "http://www.socatoba.com/files/gimgs/80_2020120413501000-01.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "artwork": [
-        {
-          "id": "im-notplastic",
-          "name": "I´M NOT PLASTIC",
-          "img": "http://www.socatoba.com/files/gimgs/80_2020120516361600-01.jpg",
-          "date": 2020,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "le-teste-de-buch",
-          "name": "LE TESTE DE BUCH",
-          "img": "http://www.socatoba.com/files/gimgs/75_img8345.jpg",
-          "date": 2018,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "barcelona-junio",
-          "name": "Barcelona Junio",
-          "img": "http://www.socatoba.com/files/gimgs/72_8.jpg",
-          "date": 2018,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "terrassa-junio",
-          "name": "Terrassa Junio",
-          "img": "http://www.socatoba.com/files/gimgs/71_12.jpg",
-          "date": 2018,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "oaxaca-julio",
-          "name": "Oaxaca Julio",
-          "img": "http://www.socatoba.com/files/gimgs/67_20139625101544009979672421988656507056893608n.jpg",
-          "date": 2017,
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "id": "siete-fuegos",
-          "name": "Siete Fuegos",
-          "img": "http://www.socatoba.com/files/gimgs/64_img6361.jpg",
-          "date": 2018,
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
       ]

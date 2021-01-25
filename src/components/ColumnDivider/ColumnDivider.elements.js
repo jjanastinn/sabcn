@@ -13,6 +13,6 @@ export const Divider = styled.div`
   }
 
   @media ${device.desktopLarge} {
-    left: calc(1500px/3*2 + 10px);
+    left: calc((100vw - 1500px)/2 + 1010px);
   }
 `
