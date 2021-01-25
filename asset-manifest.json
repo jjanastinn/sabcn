@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/sabcn/static/js/main.50c327da.chunk.js",
+    "main.js.map": "/sabcn/static/js/main.50c327da.chunk.js.map",
+    "runtime-main.js": "/sabcn/static/js/runtime-main.45691339.js",
+    "runtime-main.js.map": "/sabcn/static/js/runtime-main.45691339.js.map",
+    "static/js/2.d355b752.chunk.js": "/sabcn/static/js/2.d355b752.chunk.js",
+    "static/js/2.d355b752.chunk.js.map": "/sabcn/static/js/2.d355b752.chunk.js.map",
+    "static/js/3.784d4c9a.chunk.js": "/sabcn/static/js/3.784d4c9a.chunk.js",
+    "static/js/3.784d4c9a.chunk.js.map": "/sabcn/static/js/3.784d4c9a.chunk.js.map",
+    "index.html": "/sabcn/index.html",
+    "static/js/2.d355b752.chunk.js.LICENSE.txt": "/sabcn/static/js/2.d355b752.chunk.js.LICENSE.txt",
+    "static/media/Blackout-Midnight.e4b787f9.ttf": "/sabcn/static/media/Blackout-Midnight.e4b787f9.ttf",
+    "static/media/facebook.dd5c1a45.svg": "/sabcn/static/media/facebook.dd5c1a45.svg",
+    "static/media/instagram.76680b89.svg": "/sabcn/static/media/instagram.76680b89.svg",
+    "static/media/twitter.cf0fc535.svg": "/sabcn/static/media/twitter.cf0fc535.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45691339.js",
+    "static/js/2.d355b752.chunk.js",
+    "static/js/main.50c327da.chunk.js"
+  ]
+}
