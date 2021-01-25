@@ -6,7 +6,7 @@ export const ArtistDataContext = createContext();
 export const useArtistData = () => useContext(ArtistDataContext);
 
 const ArtistDataContextProvider = ({children}) => {
-  const url = 'artists.json';
+  const url = 'https://jjanastinn.github.io/sabcn/artists.json';
   const { status, data, error } = useFetch(url);
 
   return (
