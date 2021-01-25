@@ -8,9 +8,9 @@ import { Artwork } from '../index';
 import { AnimatePresence, motion } from 'framer-motion';
 import { animationOne } from '../../animations';
 
-const viewPortWidth = window.innerWidth;
 
 const Artist = ({ match }) => {
+  const viewPortWidth = window.innerWidth;
   const artistContext = useArtistData();
   const { status, data, error } = artistContext;
   const artist = data?.artists?.find( artist => artist.id === match.params.artistId);

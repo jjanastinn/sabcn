@@ -1,15 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
-import blackoutmidnight from './assets/Blackout-Midnight.ttf';
 import { BlackoutFont } from './styles/Mixins';
 import { device } from './styles/Breakpoints';
 
 const GlobalStyle = createGlobalStyle`
-
-  // TYPO
-  @font-face {
-    font-family: blackoutmidnight;
-    src: url(${blackoutmidnight}) format('truetype');
-  }
 
   // VARIABLES
   :root {

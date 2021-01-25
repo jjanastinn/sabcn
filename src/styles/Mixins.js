@@ -1,5 +1,15 @@
 import { css } from 'styled-components';
 import { device } from './Breakpoints';
+import blackoutmidnight from '../assets/Blackout-Midnight.ttf';
+
+export const BlackoutFont = css`
+  @font-face {
+    font-family: blackoutmidnight;
+    src: url(${blackoutmidnight}) format('truetype');
+  }
+  font-family: 'blackoutmidnight', sans-serif;
+  letter-spacing: .5px;
+`
 
 export const Scroll = css`
   height: 100vh;
@@ -44,9 +54,4 @@ export const DoubleColumnSubgrid = css`
       ${ColumnBorder}
     }
   }
-`
-
-export const BlackoutFont = css`
-  font-family: 'blackoutmidnight', sans-serif;
-  letter-spacing: .5px;
 `

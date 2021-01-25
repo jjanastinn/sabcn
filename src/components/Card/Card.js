@@ -5,9 +5,9 @@ import { size } from '../../styles/Breakpoints';
 import { animationOne } from '../../animations';
 import { AnimatePresence, motion } from 'framer-motion';
 
-const viewPortWidth = window.innerWidth;
 
 const Card = ({ headline, data : { id, name, born_place, born_date, website, social, img, description, date } }) => {
+  const viewPortWidth = window.innerWidth;
   const socialLinkList = social && <SocialLinks data={social}></SocialLinks>
   const websiteLink = website && <ButtonLink hrefLink={website}>Go to website &#10141;</ButtonLink>
   const deviceVariant = `${viewPortWidth}px` > size.mobile ? animationOne : null;
