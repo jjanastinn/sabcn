@@ -18,7 +18,7 @@ function App() {
           <AnimatePresence exitBeforeEnter>
             <Switch>
               <Route path='/sabcn' component={Home} exact></Route>
-              <Route path='/:artistId' component={Artist}></Route>
+              <Route path='/sabcn/:artistId' component={Artist}></Route>
             </Switch>
           </AnimatePresence>
         </Grid>
