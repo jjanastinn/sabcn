@@ -8,7 +8,7 @@ const ListItem = ({ data: { id, name, img } }) => {
 
   return (
     <li key={id}>
-      <Link to={artistId ? `${match.url}/${id}` : `/${id}`}>
+      <Link to={artistId ? `${match.url}/${id}` : `/sabcn/${id}`}>
         <BGImage image={img}></BGImage>
         <h3>{name}</h3>
       </Link>

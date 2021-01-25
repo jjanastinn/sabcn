@@ -17,7 +17,7 @@ const social = [
 const Navbar = () => {
   return (
     <Nav>
-      <a href='/'>
+      <a href='/sabcn'>
         <Headline>streetart bcn</Headline>
       </a>
       <SocialLinks data={social} vertical='true'></SocialLinks>
