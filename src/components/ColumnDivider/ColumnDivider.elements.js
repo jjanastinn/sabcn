@@ -11,4 +11,8 @@ export const Divider = styled.div`
   @media ${device.mobile} {
     display: none;
   }
+
+  @media ${device.desktopLarge} {
+    left: calc(1500px/3*2 + 10px);
+  }
 `
