@@ -6,7 +6,7 @@ export const ArtistDataContext = createContext();
 export const useArtistData = () => useContext(ArtistDataContext);
 
 const ArtistDataContextProvider = ({children}) => {
-  const url = 'http://localhost:3000/artists.json';
+  const url = 'artists.json';
   const { status, data, error } = useFetch(url);
 
   return (
